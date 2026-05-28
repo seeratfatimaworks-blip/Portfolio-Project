@@ -9,3 +9,21 @@ body {
   background: #0f172a;
   color:white;
 }
+
+.navbar {
+  display: flex;
+  justify-content:space-between;
+  align-items:center;
+  padding: 20px 60px;
+  background:#111827;
+}
+
+.logo {
+  color: #38bdf8;
+}
+
+.nav-links {
+  display:flex;
+  gap:30px;
+  list-style:none;
+}
